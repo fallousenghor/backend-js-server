@@ -1,17 +1,16 @@
 {
-  "utilisateurs": [
-                       
-  ],   
-  "contacts": [
-            
-  ], 
-   "messages": [
-      
-  ],
-   "groupes": [
+  "users": [
   
   ],
-  "discussions":[
-    
-  ]
+  "contacts": [
+ 
+ 
+  ],
+  "conversations": [],
+  "groups": [
+   
+  ],
+  "messages": [],
+  "stories": [],
+  "calls": []
 }
